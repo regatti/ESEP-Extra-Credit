@@ -9,6 +9,7 @@ Next, click on the "Run" button, and the output will appear on the right side of
 Your output should look like this: 
 
 "/tmp/CAWhYCJ2BC.o
+
 0
 5
 6
